@@ -1,0 +1,15 @@
+header {
+    background-color: tomato;
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    border-radius: 5px;
+}
+
+button {
+    border-radius: 5px;
+}
